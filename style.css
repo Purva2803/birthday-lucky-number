@@ -6,7 +6,7 @@ h1{
     
     width: 50%;
     margin:auto;
-    border: solid black 1px;
+    border: solid black 3px;
 }
 input,label
 {
@@ -31,4 +31,14 @@ body{
     text-align: center;
     color:black;
     
+}
+#date-of-birth{
+    text-align:center;
+    border: solid black 2px;
+    display: block;
+}
+
+#lucky-number{
+    text-align :center;
+    border: solid black 2px;
 }
