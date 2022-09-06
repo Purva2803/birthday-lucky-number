@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    
+    width: 50%;
+    margin:auto;
+    border: solid black 1px;
+}
+input,label
+{
+   display: block;
+   
+}
+input{
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+#check-btn{
+    display: block;
+    margin-top:0.5rem;
+    margin:auto;
+
+}
+
+body{
+    background-color: lightblue;
+    text-align: center;
+    color:black;
+    
+}
