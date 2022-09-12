@@ -33,12 +33,19 @@ body{
     
 }
 #date-of-birth{
-    text-align:center;
+    align-self: center;
     border: solid black 2px;
     display: block;
+
 }
 
 #lucky-number{
-    text-align :center;
+    align-self: center;
     border: solid black 2px;
+}
+.column1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3px;
 }
